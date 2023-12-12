@@ -13,5 +13,4 @@ class Solution(object):
 
         return False
 
-#pb link
-#https://leetcode.com/problems/contains-duplicate/description/
+
